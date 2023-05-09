@@ -106,7 +106,7 @@ video
 wbr
 ```
 
-## html tag
+## css tag
 ```css
 align-content	Aligns items in a flex container along flex lines.
 align-items	Aligns evenly spaced items in a flex container.
